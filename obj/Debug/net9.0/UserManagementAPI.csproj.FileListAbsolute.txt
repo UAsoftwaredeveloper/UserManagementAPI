@@ -33,3 +33,4 @@ C:\Umesh\BackendTestProjects\UserManagementAPI\obj\Debug\net9.0\refint\UserManag
 C:\Umesh\BackendTestProjects\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.pdb
 C:\Umesh\BackendTestProjects\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.genruntimeconfig.cache
 C:\Umesh\BackendTestProjects\UserManagementAPI\obj\Debug\net9.0\ref\UserManagementAPI.dll
+C:\Umesh\BackendTestProjects\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.sourcelink.json
